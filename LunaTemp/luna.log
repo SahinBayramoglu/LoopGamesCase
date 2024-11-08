@@ -1,0 +1,376 @@
+report@config:load 73.27
+Authorized using stored user info.
+report@account:authorize 33.61
+stderr: 'rm' is not recognized as an internal or external command,
+operable program or batch file.
+
+Exporting assets from Unity...........
+
+[ Stage1 ] Assets exported from Unity and staged for further processing
+report@unity:export 8108.34
+report@config:load 34.87
+Found custom rules for texture Resources/unity_builtin_extra/Default-ParticleSystem
+  {"maxWidth":512,"maxHeight":512,"format":"png32","compression":"none","quality":65,"script":"","ext":"","name":"Resources/unity_builtin_extra/Default-Particle","isOverride":true}
+Resources:
+{}
+report@assets:stage2 8170.60
+report@assets:stage3 420.37
+[ Stage2 ] Assets postprocessed and bundled successfully
+report@config:unity 0.23
+report@config:load 69.49
+report@config:unity 4.54
+﻿
+[ error ] $﻿
+PHC: LP error code not found in JSON: 3013, JSON file might be outdated. Error message: Sequence contains no matching element
+
+PHC: LP error code not found in JSON: 3013, JSON file might be outdated. Error message: Sequence contains no matching element
+
+PHC: LP error code not found in JSON: 3013, JSON file might be outdated. Error message: Sequence contains no matching element
+
+PHC: LP error code not found in JSON: 3013, JSON file might be outdated. Error message: Sequence contains no matching element
+
+PHC: LP error code not found in JSON: 3013, JSON file might be outdated. Error message: Sequence contains no matching element
+
+PHC: LP error code not found in JSON: 3013, JSON file might be outdated. Error message: Sequence contains no matching element
+
+Diagnostics gathered successfully
+.NET Core 3 runtime not found.
+.NET Core 3 runtime not found.
+Microsoft (R) Visual C# Derleyicisi sürüm 4.3.1-3.22526.13 (41a5af9d)
+Telif hakkı (C) Microsoft Corporation. Tüm hakları saklıdır.
+
+
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\Assets\01Scripts\BaseCharacter.cs(14,24): warning CS0108: 'BaseCharacter.rigidbody2D', 'Component.rigidbody2D' devralınan üyesini gizler. Gizleme isteniyorsa yeni anahtar sözcük kullanın.
+
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\Assets\01Scripts\BaseCharacter.cs(18,23): warning CS0108: 'BaseCharacter.collider', 'Component.collider' devralınan üyesini gizler. Gizleme isteniyorsa yeni anahtar sözcük kullanın.
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\Assets\ScratchCard\Demo\Scripts\SpriteToggle.cs(9,40): warning CS0649: 'SpriteToggle.imageOn' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\Assets\ScratchCard\Scripts\ScratchCardManager.cs(247,80): warning CS0649: 'ScratchCardManager.maskProgressShader' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\Assets\ScratchCard\Scripts\ScratchCardManager.cs(246,73): warning CS0649: 'ScratchCardManager.brushShader' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\Assets\ScratchCard\Demo\Scripts\ScratchDemoUI.cs(35,47): warning CS0649: 'ScratchDemoUI.animations' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\Assets\ScratchCard\Demo\Scripts\SpriteToggle.cs(8,41): warning CS0649: 'SpriteToggle.toggle' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\Assets\ScratchCard\Demo\Scripts\SpriteToggle.cs(10,40): warning CS0649: 'SpriteToggle.imageOff' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\Assets\ScratchCard\Demo\Scripts\ScratchDemoUI.cs(19,33): warning CS0649: 'ScratchDemoUI.progressText' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\Assets\ScratchCard\Demo\Scripts\ScratchDemoUI.cs(45,35): warning CS0649: 'ScratchDemoUI.resetButton' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\Assets\ScratchCard\Demo\Scripts\ScratchDemoUI.cs(27,37): warning CS0649: 'ScratchDemoUI.brushToggles' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur
+
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\Assets\ScratchCard\Demo\Scripts\ScratchDemoUI.cs(38,41): warning CS0649: 'ScratchDemoUI.cursorSprite' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\Assets\ScratchCard\Demo\Scripts\ScratchDemoUI.cs(26,38): warning CS0649: 'ScratchDemoUI.brushes' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\Assets\ScratchCard\Demo\Scripts\ScratchDemoUI.cs(39,37): warning CS0649: 'ScratchDemoUI.animationToggles' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\Assets\01Scripts\GameController.cs(17,41): warning CS0649: 'GameController.collectableSword' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\Assets\ScratchCard\Demo\Scripts\CursorSprite.cs(8,43): warning CS0649: 'CursorSprite.cursorSpriteRenderer' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\Assets\ScratchCard\Demo\Scripts\ScratchDemoUI.cs(31,33): warning CS0649: 'ScratchDemoUI.brushSizeText' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\Assets\ScratchCard\Demo\Scripts\ScratchDemoUI.cs(40,35): warning CS0649: 'ScratchDemoUI.playButton' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\Assets\ScratchCard\Demo\Scripts\ScratchDemoUI.cs(30,35): warning CS0649: 'ScratchDemoUI.brushSizeSlider' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur
+
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\Assets\01Scripts\WeaponManager.cs(8,49): warning CS0169: 'WeaponManager._weaponGruopRotator' alanı hiçbir zaman kullanılmaz
+
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\Assets\01Scripts\WeaponManager.cs(12,40): warning CS0649: 'WeaponManager.weaponParent' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\Assets\ScratchCard\Demo\Scripts\ScratchDemoUI.cs(36,35): warning CS0649: 'ScratchDemoUI.cursorToggle' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\Assets\ScratchCard\Demo\Scripts\ScratchDemoUI.cs(18,35): warning CS0649: 'ScratchDemoUI.progressToggle' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\Assets\ScratchCard\Demo\Scripts\ScratchDemoUI.cs(22,35): warning CS0649: 'ScratchDemoUI.scratchModeEraseToggle' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\Assets\ScratchCard\Demo\Scripts\ScratchDemoUI.cs(23,35): warning CS0649: 'ScratchDemoUI.scratchModeRestoreToggle' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\Assets\ScratchCard\Demo\Scripts\ScratchDemoUI.cs(37,39): warning CS0649: 'ScratchDemoUI.cursor' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\Assets\01Scripts\PlayerMovementController.cs(7,45): warning CS0649: 'PlayerMovementController.spriteRenderer' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\Assets\01Scripts\Joystick.cs(6,44): warning CS0649: 'Joystick.joystickBackground' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\Assets\01Scripts\GameController.cs(12,43): warning CS0649: 'GameController.mapGenerator' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\Assets\01Scripts\Player.cs(9,45): warning CS0169: 'Player.spriteRenderer' alanı hiçbir zaman kullanılmaz
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\Assets\ScratchCard\Scripts\ScratchCardManager.cs(245,72): warning CS0649: 'ScratchCardManager.maskShader' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\Assets\ScratchCard\Demo\Scripts\ScratchDemoUI.cs(41,35): warning CS0649: 'ScratchDemoUI.pauseButton' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\Assets\01Scripts\GameController.cs(13,45): warning CS0649: 'GameController.fenceGenerator' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur
+
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\Assets\01Scripts\Joystick.cs(7,44): warning CS0649: 'Joystick.joystickHandle' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\Assets\ScratchCard\Demo\Scripts\ScratchDemoUI.cs(15,47): warning CS0649: 'ScratchDemoUI.cardManager' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\Assets\ScratchCard\Demo\Scripts\ScratchDemoUI.cs(34,44): warning CS0649: 'ScratchDemoUI.scratchAnimator' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\Assets\01Scripts\GameController.cs(11,49): warning CS0649: 'GameController.cardManager' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\Assets\ScratchCard\Demo\Scripts\ScratchDemoUI.cs(42,35): warning CS0649: 'ScratchDemoUI.stopButton' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur
+
+Usercode compiled successfully!
+.NET Core 3 runtime not found.
+.NET Core 3 runtime not found.
+code-v2:compose complete successfully!
+report@code-v2:compose 0.38
+Authorized using stored user info.
+report@account:authorize 7.05
+.NET Framework için MSBuild sürüm 17.11.9+a69bbaaf5
+
+Oluşturma başlatıldı: 8.11.2024 13:32:57.
+
+
+
+1 düğümünde "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj" projesi (Rebuild hedef).
+CoreClean:
+
+  "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.dll" dosyası siliniyor.
+
+  "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.pdb" dosyası siliniyor.
+
+  "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.dll" dosyası siliniyor.
+
+  "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.dll" dosyası siliniyor.
+
+  "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.dll" dosyası siliniyor.
+
+  "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\bin\Debug\DOTween.dll" dosyası siliniyor.
+
+  "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\bin\Debug\JetBrains.dll" dosyası siliniyor.
+
+  "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.dll" dosyası siliniyor.
+
+  "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.dll" dosyası siliniyor.
+
+  "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.dll" dosyası siliniyor.
+
+  "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.dll" dosyası siliniyor.
+
+  "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.dll" dosyası siliniyor.
+
+  "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.dll" dosyası siliniyor.
+
+  "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UI.dll" dosyası siliniyor.
+
+  "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UniversalRenderPipeline.dll" dosyası siliniyor.
+
+  "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.xml" dosyası siliniyor.
+
+  "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.xml" dosyası siliniyor.
+
+  "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.xml" dosyası siliniyor.
+
+  "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.xml" dosyası siliniyor.
+
+  "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.xml" dosyası siliniyor.
+
+  "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.xml" dosyası siliniyor.
+
+  "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.xml" dosyası siliniyor.
+
+  "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.xml" dosyası siliniyor.
+
+  "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.AssemblyReference.cache" dosyası siliniyor.
+
+  "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.CoreCompileInputs.cache" dosyası siliniyor.
+
+  "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.Up2Date" dosyası siliniyor.
+
+  "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.dll" dosyası siliniyor.
+
+  "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.pdb" dosyası siliniyor.
+
+GenerateTargetFrameworkMonikerAttribute:
+Tüm çıkış dosyaları, giriş dosyalarına göre güncel durumda olduğundan "GenerateTargetFrameworkMonikerAttribute" hedefi atlanıyor.
+
+CoreCompile:
+  C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\Roslyn\csc.exe /noconfig /nowarn:CS0626,1701,1702 /fullpaths /nostdlib+ /errorreport:prompt /warn:4 /define:UNITY_LUNA;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_2022;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;UNITY_2022_1_OR_NEWER;UNITY_2022_2_OR_NEWER;UNITY_2022_3_OR_NEWER;UNITY_2022_3;UNITY_2022_3_51 /highentropyva+ /reference:C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\packages\Bridge.Core.17.9.42-luna\lib\net40\Bridge.dll /reference:C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\packages\Bridge.Html5.17.9.0\lib\net40\Bridge.Html5.dll /reference:C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\packages\Bridge.WebGL.1.22.0\lib\net40\Bridge.WebGL.dll /reference:C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\packages\DOTween.1.2.705\lib\net40\DOTween.dll /reference:C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\packages\com.unity.ide.rider\3.0.0\JetBrains.dll /reference:C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\packages\Bridge.Newtonsoft.Json.1.16.0\lib\net40\Newtonsoft.Json.dll /reference:C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\packages\Retyped.Core.1.6.6733\lib\net40\Retyped.Core.dll /reference:C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\packages\Retyped.dom.2.8.6733\lib\net40\Retyped.dom.dll /reference:C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\packages\Retyped.es5.2.8.6733\lib\net40\Retyped.es5.dll /reference:C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\packages\Retyped.scripthost.2.8.6733\lib\net40\Retyped.scripthost.dll /reference:C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Vendor\UnityEngine.dll /reference:C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\packages\com.unity.ui\1.2.1\UnityEngine.UI.dll /reference:C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\packages\com.unity.urp\7.6\UnityEngine.UniversalRenderPipeline.dll /debug+ /debug:full /optimize- /out:obj\Debug\UnityScriptsCompiler.dll /subsystemversion:6.00 /target:library /warnaserror- /utf8output /langversion:8 C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\AttackState.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\BaseCharacter.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ChaseSwordState.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ConstantsConfig.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\DG\Tweening\DOTweenCYInstruction.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\DG\Tweening\DOTweenModulePhysics2D.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\DG\Tweening\DOTweenModuleSprite.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\DG\Tweening\DOTweenModuleUI.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\DG\Tweening\DOTweenModuleUnityVersion.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\DG\Tweening\DOTweenModuleUtils.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\Enemy.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\FenceGenerator.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\FleeState.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\GameController.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ICollectible.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\IDamageable.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\IdleState.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\IState.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ISword.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\IWeapon.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\Joystick.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assem
+blies\stage_2\decompiled\MapGenerator.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ObjectPool.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\Player.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\PlayerController.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\PlayerMovementController.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\Properties\AssemblyInfo.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Animation\BaseScratch.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Animation\LineScratch.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Animation\ScratchAnimation.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Animation\ScratchAnimationRecorder.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Animation\ScratchAnimator.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Core\Constants.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Core\InputData\CanvasGraphicRaycaster.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Core\InputData\RaycastController.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Core\InputData\ScratchCardInput.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Core\InputData\ScratchCardInputData.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Core\ProgressAccuracy.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Core\Quality.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Core\ScratchAnimationSpace.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Core\ScratchCardRenderer.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Core\ScratchCardRenderType.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Core\ScratchData\BaseData.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Core\ScratchData\ImageData.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Core\ScratchData\MeshRendererData.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Core\ScratchData\SpriteRendererData.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Core\ScratchData\Triangle.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Core\ScratchMode.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Demo\CursorSprite.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Demo\ScratchDemoUI.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Demo\SpriteToggle.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\EraseProgress.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\ScratchCard.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\ScratchCardManager.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Tools\EventSystemHelper.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Tools\MeshGenerator.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Tools\MigrationHelper.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\Sword.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\WalkingState.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\WanderState.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\WeaponGruopRotator.cs C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\WeaponManager.cs "obj\Debug\.NETFramework,Version=v4.7.AssemblyAttributes.cs"
+
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\BaseCharacter.cs(17,25): warning CS0109: 'BaseCharacter.rigidbody2D' üyesi, erişilebilir bir üyeyi gizlemez. Yeni anahtar sözcük gerekli değil. [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\BaseCharacter.cs(25,24): warning CS0109: 'BaseCharacter.collider' üyesi, erişilebilir bir üyeyi gizlemez. Yeni anahtar sözcük gerekli değil. [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Demo\ScratchDemoUI.cs(17,18): warning CS0649: 'ScratchDemoUI.progressToggle' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Demo\ScratchDemoUI.cs(45,27): warning CS0649: 'ScratchDemoUI.scratchAnimator' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Demo\ScratchDemoUI.cs(57,24): warning CS0649: 'ScratchDemoUI.cursorSprite' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\ScratchCardManager.cs(91,18): warning CS0649: 'ScratchCardManager.maskProgressShader' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Demo\SpriteToggle.cs(9,18): warning CS0649: 'SpriteToggle.toggle' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Demo\ScratchDemoUI.cs(34,20): warning CS0649: 'ScratchDemoUI.brushToggles' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Demo\ScratchDemoUI.cs(69,18): warning CS0649: 'ScratchDemoUI.stopButton' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\Player.cs(8,25): warning CS0169: 'Player.spriteRenderer' alanı hiçbir zaman kullanılmaz [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Demo\SpriteToggle.cs(12,17): warning CS0649: 'SpriteToggle.imageOn' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\Joystick.cs(7,24): warning CS0649: 'Joystick.joystickBackground' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\Joystick.cs(10,24): warning CS0649: 'Joystick.joystickHandle' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Demo\ScratchDemoUI.cs(38,18): warning CS0649: 'ScratchDemoUI.brushSizeSlider' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Demo\ScratchDemoUI.cs(41,16): warning CS0649: 'ScratchDemoUI.brushSizeText' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\GameController.cs(20,21): warning CS0649: 'GameController.collectableSword' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\De
+sktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Demo\ScratchDemoUI.cs(13,30): warning CS0649: 'ScratchDemoUI.cardManager' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Demo\ScratchDemoUI.cs(20,16): warning CS0649: 'ScratchDemoUI.progressText' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\ScratchCardManager.cs(87,18): warning CS0649: 'ScratchCardManager.brushShader' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\WeaponManager.cs(9,29): warning CS0169: 'WeaponManager._weaponGruopRotator' alanı hiçbir zaman kullanılmaz [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Demo\ScratchDemoUI.cs(27,18): warning CS0649: 'ScratchDemoUI.scratchModeRestoreToggle' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Demo\ScratchDemoUI.cs(24,18): warning CS0649: 'ScratchDemoUI.scratchModeEraseToggle' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Demo\ScratchDemoUI.cs(63,18): warning CS0649: 'ScratchDemoUI.playButton' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Demo\SpriteToggle.cs(15,17): warning CS0649: 'SpriteToggle.imageOff' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\GameController.cs(13,23): warning CS0649: 'GameController.mapGenerator' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Demo\ScratchDemoUI.cs(73,18): warning CS0649: 'ScratchDemoUI.resetButton' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\ScratchCardManager.cs(83,18): warning CS0649: 'ScratchCardManager.maskShader' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Demo\ScratchDemoUI.cs(66,18): warning CS0649: 'ScratchDemoUI.pauseButton' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Demo\ScratchDemoUI.cs(54,22): warning CS0649: 'ScratchDemoUI.cursor' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\GameController.cs(10,29): warning CS0649: 'GameController.cardManager' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop
+\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Demo\CursorSprite.cs(9,26): warning CS0649: 'CursorSprite.cursorSpriteRenderer' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Demo\ScratchDemoUI.cs(51,18): warning CS0649: 'ScratchDemoUI.cursorToggle' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\PlayerMovementController.cs(10,25): warning CS0649: 'PlayerMovementController.spriteRenderer' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Demo\ScratchDemoUI.cs(31,21): warning CS0649: 'ScratchDemoUI.brushes' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\GameController.cs(16,25): warning CS0649: 'GameController.fenceGenerator' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Demo\ScratchDemoUI.cs(60,20): warning CS0649: 'ScratchDemoUI.animationToggles' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Demo\ScratchDemoUI.cs(48,30): warning CS0649: 'ScratchDemoUI.animations' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\WeaponManager.cs(18,20): warning CS0649: 'WeaponManager.weaponParent' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+  CompilerServer: server - server processed compilation - Scripts
+
+_CopyFilesMarkedCopyLocal:
+  Dosya "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\packages\Bridge.Core.17.9.42-luna\lib\net40\Bridge.dll" konumundan "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.dll" konumuna kopyalanıyor.
+
+  Dosya "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\packages\com.unity.ide.rider\3.0.0\JetBrains.dll" konumundan "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\bin\Debug\JetBrains.dll" konumuna kopyalanıyor.
+
+  Dosya "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\packages\Bridge.WebGL.1.22.0\lib\net40\Bridge.WebGL.dll" konumundan "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.dll" konumuna kopyalanıyor.
+  Dosya "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\packages\Bridge.Html5.17.9.0\lib\net40\Bridge.Html5.dll" konumundan "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.dll" konumuna kopyalanıyor.
+
+  Dosya "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\packages\DOTween.1.2.705\lib\net40\DOTween.dll" konumundan "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\bin\Debug\DOTween.dll" konumuna kopyalanıyor.
+
+  Dosya "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\packages\Bridge.Newtonsoft.Json.1.16.0\lib\net40\Newtonsoft.Json.dll" konumundan "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.dll" konumuna kopyalanıyor.
+
+  Dosya "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\packages\Retyped.Core.1.6.6733\lib\net40\Retyped.Core.dll" konumundan "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.dll" konumuna kopyalanıyor.
+
+  Dosya "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\packages\Retyped.es5.2.8.6733\lib\net40\Retyped.es5.dll" konumundan "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.dll" konumuna kopyalanıyor.
+  Dosya "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\packages\Retyped.dom.2.8.6733\lib\net40\Retyped.dom.dll" konumundan "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.dll" konumuna kopyalanıyor.
+
+  Dosya "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\packages\Retyped.scripthost.2.8.6733\lib\net40\Retyped.scripthost.dll" konumundan "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.dll" konumuna kopyalanıyor.
+  Dosya "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Vendor\UnityEngine.dll" konumundan "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.dll" konumuna kopyalanıyor.
+
+  Dosya "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\packages\com.unity.ui\1.2.1\UnityEngine.UI.dll" konumundan "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UI.dll" konumuna kopyalanıyor.
+
+  Dosya "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\packages\com.unity.urp\7.6\UnityEngine.UniversalRenderPipeline.dll" konumundan "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UniversalRenderPipeline.dll" konumuna kopyalanıyor.
+
+  Dosya "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\packages\Bridge.Core.17.9.42-luna\lib\net40\Bridge.xml" konumundan "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.xml" konumuna kopyalanıyor.
+
+  Dosya "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\packages\Bridge.Html5.17.9.0\lib\net40\Bridge.Html5.xml" konumundan "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.xml" konumuna kopyalanıyor.
+
+  Dosya "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\packages\Bridge.WebGL.1.22.0\lib\net40\Bridge.WebGL.xml" konumundan "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.xml" konumuna kopyalanıyor.
+
+  Dosya "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\packages\Bridge.Newtonsoft.Json.1.16.0\lib\net40\Newtonsoft.Json.xml" konumundan "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.xml" konumuna kopyalanıyor.
+
+  Dosya "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\packages\Retyped.Core.1.6.6733\lib\net40\Retyped.Core.xml" konumundan "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.xml" konumuna kopyalanıyor.
+
+  Dosya "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\packages\Retyped.es5.2.8.6733\lib\net40\Retyped.es5.xml" konumundan "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.xml" konumuna kopyalanıyor.
+
+  Dosya "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\packages\Retyped.dom.2.8.6733\lib\net40\Retyped.dom.xml" konumundan "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.xml" konumuna kopyalanıyor.
+  Dosya "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\packages\Retyped.scripthost.2.8.6733\lib\net40\Retyped.scripthost.xml" konumundan "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.xml" konumuna kopyalanıyor.
+
+  "AlwaysCreate" belirtildiği için "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.Up2Date" oluşturuluyor.
+
+  "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.Up2Date" öğesine erişiliyor.
+
+CopyFilesToOutputDirectory:
+  Dosya "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.dll" konumundan "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.dll" konumuna kopyalanıyor.
+
+  Scripts -> C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.dll
+
+  Dosya "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.pdb" konumundan "C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.pdb" konumuna kopyalanıyor.
+
+BridgeNetCompilerTask:
+  Bridge started
+
+      To enable detailed logging, configure "logging" in bridge.json.
+
+      https://github.com/bridgedotnet/Bridge/wiki/global-configuration#logging
+
+  Bridge done
+
+"C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj" Projesini Oluşturma İşlemi Tamamlandı (Rebuild hedef).
+
+
+Oluşturma başarılı oldu.
+
+
+
+"C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj" (Rebuild hedefi) (1) ->
+(CoreCompile hedefi) -> 
+  C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\BaseCharacter.cs(17,25): warning CS0109: 'BaseCharacter.rigidbody2D' üyesi, erişilebilir bir üyeyi gizlemez. Yeni anahtar sözcük gerekli değil. [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\BaseCharacter.cs(25,24): warning CS0109: 'BaseCharacter.collider' üyesi, erişilebilir bir üyeyi gizlemez. Yeni anahtar sözcük gerekli değil. [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Demo\ScratchDemoUI.cs(17,18): warning CS0649: 'ScratchDemoUI.progressToggle' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Demo\ScratchDemoUI.cs(45,27): warning CS0649: 'ScratchDemoUI.scratchAnimator' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Demo\ScratchDemoUI.cs(57,24): warning CS0649: 'ScratchDemoUI.cursorSprite' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\ScratchCardManager.cs(91,18): warning CS0649: 'ScratchCardManager.maskProgressShader' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Demo\SpriteToggle.cs(9,18): warning CS0649: 'SpriteToggle.toggle' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Demo\ScratchDemoUI.cs(34,20): warning CS0649: 'ScratchDemoUI.brushToggles' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Demo\ScratchDemoUI.cs(69,18): warning CS0649: 'ScratchDemoUI.stopButton' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\Player.cs(8,25): warning CS0169: 'Player.spriteRenderer' alanı hiçbir zaman kullanılmaz [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Demo\SpriteToggle.cs(12,17): warning CS0649: 'SpriteToggle.imageOn' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\Joystick.cs(7,24): warning CS0649: 'Joystick.joystickBackground' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\Joystick.cs(10,24): warning CS0649: 'Joystick.joystickHandle' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Demo\ScratchDemoUI.cs(38,18): warning CS0649: 'ScratchDemoUI.brushSizeSlider' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Demo\ScratchDemoUI.cs(41,16): warning CS0649: 'ScratchDemoUI.brushSizeText' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+  C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\GameController.cs(20,21): warning CS0649: 'GameController.collectableSword' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Demo\ScratchDemoUI.cs(13,30): warning CS0649: 'ScratchDemoUI.cardManager' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Demo\ScratchDemoUI.cs(20,16): warning CS0649: 'ScratchDemoUI.progressText' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\ScratchCardManager.cs(87,18): warning CS0649: 'ScratchCardManager.brushShader' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\WeaponManager.cs(9,29): warning CS0169: 'WeaponManager._weaponGruopRotator' alanı hiçbir zaman kullanılmaz [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Demo\ScratchDemoUI.cs(27,18): warning CS0649: 'ScratchDemoUI.scratchModeRestoreToggle' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Demo\ScratchDemoUI.cs(24,18): warning CS0649: 'ScratchDemoUI.scratchModeEraseToggle' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Demo\ScratchDemoUI.cs(63,18): warning CS0649: 'ScratchDemoUI.playButton' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Demo\SpriteToggle.cs(15,17): warning CS0649: 'SpriteToggle.imageOff' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\GameController.cs(13,23): warning CS0649: 'GameController.mapGenerator' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Demo\ScratchDemoUI.cs(73,18): warning CS0649: 'ScratchDemoUI.resetButton' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\ScratchCardManager.cs(83,18): warning CS0649: 'ScratchCardManager.maskShader' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Demo\ScratchDemoUI.cs(66,18): warning CS0649: 'ScratchDemoUI.pauseButton' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Demo\ScratchDemoUI.cs(54,22): warning CS0649: 'ScratchDemoUI.cursor' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\GameController.cs(10,29): warning CS0649: 'GameController.cardManager' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Demo\CursorSprite.cs(9,26): warning CS0649: 'CursorSprite.cursorSpriteRenderer' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Demo\ScratchDemoUI.cs(51,18): warning CS0649: 'ScratchDemoUI.cursorToggle' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\PlayerMovementController.cs(10,25): warning CS0649: 'PlayerMovementController.spriteRenderer' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Demo\ScratchDemoUI.cs(31,21): warning CS0649: 'ScratchDemoUI.brushes' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\GameController.cs(16,25): warning CS0649: 'GameController.fenceGenerator' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Demo\ScratchDemoUI.cs(60,20): warning CS0649: 'ScratchDemoUI.animationToggles' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\ScratchCardAsset\Demo\ScratchDemoUI.cs(48,30): warning CS0649: 'ScratchDemoUI.animations' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\MIA_UNITY_PROJECTS\LoopGamesCase\LunaTemp\Assemblies\stage_2\decompiled\WeaponManager.cs(18,20): warning CS0649: 'WeaponManager.weaponParent' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\sahin.bayramoglu\Desktop\LunaSetup\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+    38 Uyarı
+    0 Hata
+
+Geçen Süre 00:00:22.51
+
+Source code compiled successfully!
+﻿
+[ error ] $﻿
+PHC: LP error code not found in JSON: 3013, JSON file might be outdated. Error message: Sequence contains no matching element
+
+PHC: LP error code not found in JSON: 3013, JSON file might be outdated. Error message: Sequence contains no matching element
+
+PHC: LP error code not found in JSON: 3013, JSON file might be outdated. Error message: Sequence contains no matching element
+
+PHC: LP error code not found in JSON: 3013, JSON file might be outdated. Error message: Sequence contains no matching element
+
+PHC: LP error code not found in JSON: 3013, JSON file might be outdated. Error message: Sequence contains no matching element
+
+PHC: LP error code not found in JSON: 3013, JSON file might be outdated. Error message: Sequence contains no matching element
+
+Diagnostics gathered successfully
+report@code:build 30428.68
+report@diagnostics:verify 1.91
+report@diagnostics:upload 1595.83
+report@code:stage 9739.86
+[ Stage3 ] Code compiled and bundled successfully.
+report@code:bundle 56666.56
+report@package:stage 1893.02
+[ Stage4 ] Target platform: develop
+[ Stage4 ] Package bundled successfully
+report@assets:stats 0.17

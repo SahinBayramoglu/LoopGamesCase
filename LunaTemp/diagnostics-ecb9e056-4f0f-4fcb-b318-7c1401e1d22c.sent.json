@@ -1,0 +1,276 @@
+{
+  "BuildID": "ecb9e056-4f0f-4fcb-b318-7c1401e1d22c",
+  "Command": "project:build",
+  "ProjectID": "ee94dc5b6dc3eee48a133f619e47f812",
+  "ProjectStateHash": "7747aa2d43daf2464bf3a42011e4a627dbd4765d76bce1c07fd058df9671fd05",
+  "StageCompletedAt": 3,
+  "EarliestFatalError": 0,
+  "StartTime": 1731061943636,
+  "EndTime": 1731062006229,
+  "PlaygroundUserID": 18785,
+  "OperatingSystem": "win32",
+  "UnityPackageID": null,
+  "TargetPlatform": "develop",
+  "UnityVersion": "2022.3.51f1",
+  "LunaVersion": "6.1.1",
+  "LogCount": 11,
+  "Logs": [
+    {
+      "LogID": "18240746-5ad6-4351-a310-4ae9aae23bc4",
+      "Order": 5,
+      "Timestamp": 1731062006640,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "LP3013",
+      "Description": "You are using an unsupported JSON feature: JsonUtility.",
+      "Details": [
+        "You are using an unsupported JSON feature: JsonUtility. Please use Newtonsoft.JSON instead. "
+      ],
+      "DescriptionValues": [
+        "JsonUtility"
+      ],
+      "DetailsValues": [
+        "JsonUtility"
+      ],
+      "LogCount": 1,
+      "LinePosition": 17,
+      "FilePath": "C:\\MIA_UNITY_PROJECTS\\LoopGamesCase\\LunaTemp\\Assemblies\\stage_2\\decompiled\\ScratchCardAsset\\Animation\\ScratchAnimation.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "2ef1a811-5a40-444e-829c-c201c97761b9",
+      "Order": 5,
+      "Timestamp": 1731062006641,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "LP3013",
+      "Description": "You are using an unsupported JSON feature: JsonUtility.",
+      "Details": [
+        "You are using an unsupported JSON feature: JsonUtility. Please use Newtonsoft.JSON instead. "
+      ],
+      "DescriptionValues": [
+        "JsonUtility"
+      ],
+      "DetailsValues": [
+        "JsonUtility"
+      ],
+      "LogCount": 1,
+      "LinePosition": 22,
+      "FilePath": "C:\\MIA_UNITY_PROJECTS\\LoopGamesCase\\LunaTemp\\Assemblies\\stage_2\\decompiled\\ScratchCardAsset\\Animation\\ScratchAnimation.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "a2c88b57-bdb0-4eab-87c6-438d7a5e2641",
+      "Order": 5,
+      "Timestamp": 1731062006657,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "LP3013",
+      "Description": "You are using an unsupported JSON feature: JsonUtility.",
+      "Details": [
+        "You are using an unsupported JSON feature: JsonUtility. Please use Newtonsoft.JSON instead. "
+      ],
+      "DescriptionValues": [
+        "JsonUtility"
+      ],
+      "DetailsValues": [
+        "JsonUtility"
+      ],
+      "LogCount": 1,
+      "LinePosition": 69,
+      "FilePath": "C:\\MIA_UNITY_PROJECTS\\LoopGamesCase\\LunaTemp\\Assemblies\\stage_2\\decompiled\\ScratchCardAsset\\Animation\\ScratchAnimationRecorder.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "7107a865-5101-4b33-9536-973606ff1596",
+      "Order": 5,
+      "Timestamp": 1731062006932,
+      "Stage": 3,
+      "ErrorType": 1,
+      "ErrorCode": "LP3006",
+      "Description": "You are not using the Luna API: Playable.InstallFullGame",
+      "Details": [
+        "You are not using the Luna API: Playable.InstallFullGame. Some ad networks require these calls. Please add these calls to ensure your playable works on all ad networks. Check documentation for more information."
+      ],
+      "DescriptionValues": [
+        "Playable",
+        "InstallFullGame"
+      ],
+      "DetailsValues": [
+        "Playable",
+        "InstallFullGame"
+      ],
+      "LogCount": 1,
+      "LinePosition": null,
+      "FilePath": "",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "805eb8b3-ea4e-4fe1-828a-04e64d5d217e",
+      "Order": 5,
+      "Timestamp": 1731062006933,
+      "Stage": 3,
+      "ErrorType": 1,
+      "ErrorCode": "LP3006",
+      "Description": "You are not using the Luna API: LifeCycle.GameEnded",
+      "Details": [
+        "You are not using the Luna API: LifeCycle.GameEnded. Some ad networks require these calls. Please add these calls to ensure your playable works on all ad networks. Check documentation for more information."
+      ],
+      "DescriptionValues": [
+        "LifeCycle",
+        "GameEnded"
+      ],
+      "DetailsValues": [
+        "LifeCycle",
+        "GameEnded"
+      ],
+      "LogCount": 1,
+      "LinePosition": null,
+      "FilePath": "",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "6ae82513-19bb-42dc-8627-f6966e916ee5",
+      "Order": 5,
+      "Timestamp": 1731062006933,
+      "Stage": 3,
+      "ErrorType": 3,
+      "ErrorCode": "LP3007",
+      "Description": "You are not using any custom events",
+      "Details": [
+        "You are not using any custom events. It is recommended to use custom events to have a better understanding of the playable."
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": null,
+      "FilePath": "",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "eb01cc1f-a293-4e08-bad2-1b5fbb04ea0a",
+      "Order": 5,
+      "Timestamp": 1731062006935,
+      "Stage": 3,
+      "ErrorType": 3,
+      "ErrorCode": "LP3011",
+      "Description": "You are not using any LunaPlaygroundFields attributes.",
+      "Details": [
+        "You are not using any LunaPlaygroundFields attributes, it allows you to configure your playable to different concepts to find the best variation, which can drastically improve playable performance on all ad networks."
+      ],
+      "DescriptionValues": null,
+      "DetailsValues": null,
+      "LogCount": 1,
+      "LinePosition": null,
+      "FilePath": "",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "677448bb-ffae-44e4-b179-477da5b8e2c0",
+      "Order": 0,
+      "Timestamp": 1731061952544,
+      "Stage": 1,
+      "ErrorType": 0,
+      "ErrorCode": "LP1027",
+      "Description": "This DOTween version is not supported",
+      "Details": [
+        "The incorrect DOTween version for this Unity version is in use, please update or downgrade to the recommended version {0} in the package manager. Go to Window → Package Manager."
+      ],
+      "DescriptionValues": [],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 0,
+      "FilePath": "",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "41b2242c-4215-4da4-982f-e02f81a24128",
+      "Order": 1,
+      "Timestamp": 1731061952544,
+      "Stage": 1,
+      "ErrorType": 0,
+      "ErrorCode": "LP1015",
+      "Description": "This TMP version is not fully supported",
+      "Details": [
+        "The incorrect Text Mesh Pro for this Unity version is in use, please update or downgrade to the recommended version {0} in the package manager. Go to Window → Package Manager"
+      ],
+      "DescriptionValues": [],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 0,
+      "FilePath": "",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "021f24ab-c978-4480-b91c-131b883c626b",
+      "Order": 2,
+      "Timestamp": 1731061952545,
+      "Stage": 1,
+      "ErrorType": 0,
+      "ErrorCode": "LP1032",
+      "Description": "Package(s) is not supported in Luna",
+      "Details": [
+        "Currently package(s) com.unity.timeline are not supported in Luna. We recommend you to remove it and workaround it's functionality."
+      ],
+      "DescriptionValues": [
+        "com.unity.timeline (1.7.6)"
+      ],
+      "DetailsValues": [
+        "com.unity.timeline"
+      ],
+      "LogCount": 1,
+      "LinePosition": 0,
+      "FilePath": "C:/MIA_UNITY_PROJECTS/LoopGamesCase/Packages\\manifest.json",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "bf419e71-be35-4b51-aa02-86e3989e1db3",
+      "Order": 3,
+      "Timestamp": 1731061952547,
+      "Stage": 1,
+      "ErrorType": 3,
+      "ErrorCode": "LP1002",
+      "Description": "Repeat wrap mode used on a texture with non power-of-two dimensions, this might not be rendered correctly.",
+      "Details": [
+        "ScratchSurface",
+        "3"
+      ],
+      "DescriptionValues": [],
+      "DetailsValues": [],
+      "LogCount": 2,
+      "LinePosition": 0,
+      "FilePath": "",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    }
+  ]
+}
